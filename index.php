@@ -40,7 +40,7 @@
                         </div>
                         <button type="submit" class="btn btn-success btn-flat m-b-30 m-t-30">Ingresar</button>
                         <div class="register-link m-t-15 text-center">
-                        <p>No tienes una cuenta <a href="#"> Registrate aqui</a></p>
+                        <p>No tienes una cuenta <a href="registro_usuario.php"> Registrate aqui</a></p>
                         </div>
                     </form>
                 </div>
